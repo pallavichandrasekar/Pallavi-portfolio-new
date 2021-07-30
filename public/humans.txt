@@ -1,0 +1,32 @@
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER
+
+C PALLAVI
+Designer, Developer & Cybersecurity Enthusiast
+
+Design tools:
+Figma
+
+https://github.com/pallavichandrasekar
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+React
+Storybook
+Three
+Popmotion
+
+_______________________________________________________________________________
+
+FONTS
+
+Gotham
+SFMono
+Hiragino Kaku Gothic
+Respira Black

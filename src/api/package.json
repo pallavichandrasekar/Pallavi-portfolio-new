@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "description": "Serverless functions for codyb.co",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-plugin-promise": "^5.1.0"
+  },
+  "dependencies": {
+    "dompurify": "^2.2.9",
+    "jsdom": "^16.6.0",
+    "nodemailer": "^6.6.1"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
+}

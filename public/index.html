@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <script>
+      if (navigator.doNotTrack !== '1' && navigator.userAgent !== 'ReactSnap') {
+        const script = document.createElement('script');
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=G-19ZKYVHWKV';
+        script.async = true;
+        document.head.appendChild(script);
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-19ZKYVHWKV');
+      }
+    </script>
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
+    />
+    <meta
+      name="keywords"
+      content="creative, design, designer, developer, 3d, ui, ux, animation, website, guitar, music, musician"
+    />
+    <meta name="theme-color" content="#111111" />
+    <meta name="author" content="Cody Bennett" />
+    <meta name="googlebot" content="follow, index, noarchive" />
+    <meta name="robots" content="follow, index, noarchive" />
+    <meta name="distribution" content="web" />
+
+    <link rel="manifest" href="https://codyb.co/manifest.json" />
+    <link rel="shortcut icon" href="https://codyb.co/favicon.svg" />
+    <link rel="apple-touch-icon" href="https://codyb.co/icon-256.png" />
+    <link type="text/plain" rel="author" href="https://codyb.co/humans.txt" />
+
+    <meta itemprop="name" content="Cody Bennett | Designer + Developer" />
+    <meta
+      itemprop="description"
+      content="Portfolio of Cody Jason Bennett – a multidisciplinary designer & developer with a focus on motion and user experience."
+    />
+    <meta itemprop="image" content="https://codyb.co/social-image.png" />
+
+    <meta property="og:site_name" content="codyb.co" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://codyb.co" />
+    <meta property="og:title" content="Cody Bennett | Designer + Developer" />
+    <meta
+      property="og:description"
+      content="Portfolio of Cody Jason Bennett – a multidisciplinary designer & developer with a focus on motion and user experience."
+    />
+    <meta property="og:image" content="https://codyb.co/social-image.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://codyb.co" />
+    <meta name="twitter:title" content="Cody Bennett | Designer + Developer" />
+    <meta
+      name="twitter:description"
+      content="Portfolio of Cody Jason Bennett – a multidisciplinary designer & developer with a focus on motion and user experience."
+    />
+    <meta name="twitter:image" content="https://codyb.co/social-image.png" />
+  </head>
+
+  <body>
+    <script>
+      const preferredTheme = JSON.parse(localStorage.getItem('theme'));
+      document.body.className = preferredTheme || 'dark';
+    </script>
+    <div id="root"></div>
+  </body>
+</html>

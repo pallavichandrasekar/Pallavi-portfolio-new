@@ -1,0 +1,8 @@
+.publications {
+  --maxWidthL: var(--maxWidthM);
+}
+
+.publications__section {
+  opacity: 0;
+  animation: fade-in 1s ease 1s forwards;
+}
