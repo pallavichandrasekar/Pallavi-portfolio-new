@@ -34,8 +34,8 @@ const ProfileText = ({ status, titleId }) => (
       Electronics and Computer Engineering. My projects include UX design,Web development
       and cybersecurity.I am an IBM certified cyber security analyst with robust problem
       solving skills and a creative mind. Self competing has always been my strength
-      behind all my works. If you're interested in the tools and software I use check out
-      my <Link href="/skills">skills page</Link>. I’m always down for hearing about new
+      behind all my works.I have published two research paper under the cybersecurity domain,do check out my <Link href="/publications">publication and achievements page</Link> to know more about my research papers and if you're interested in the tools and software I use check out
+      my <Link href="/uses">skills page</Link>. I’m always down for hearing about new
       projects, so feel free to drop me a line.
     </Text>
   </Fragment>
